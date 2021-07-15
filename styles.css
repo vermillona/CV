@@ -1,0 +1,35 @@
+ /* -----------------------------tag selector -----------------------------*/
+body {
+  background-color: #E8EAE6;
+}
+hr {
+    height: 1px;
+    border-style: dotted none none none;
+    border-color: #D8B384;
+    border-width: 5px;
+    width: 3%
+  }
+  h1 {
+    color: #5E454B;
+  }
+  h3 {
+    color: #5E454B;
+  }
+
+img  {
+ border-radius: 50%;
+ }
+
+ /* ---------------------------class selector------------------------------ */
+ .run:hover {
+   background-color: #57837B;
+}
+.cook:hover {
+  background-color: #57837B;
+}
+.study:hover {
+  background-color: #57837B;
+}
+.travel:hover {
+  background-color: #57837B;
+}
